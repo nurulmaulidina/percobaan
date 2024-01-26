@@ -1,0 +1,27 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: mediumseagreen;
+}
+.dalem{
+    background-color: aliceblue;
+    max-width: 800px;
+    margin: 60px auto;
+    height: 700px;
+    padding: 20px;
+}
+.header{
+    text-align: center;
+}
+h4 ul li{
+    line-height: 2;
+}
+h4{
+background-color: palegreen;
+padding: 15px;
+color:black;
+margin: 20px 0;
+font-size: 20px;
+border-radius: 50px;
+
+}
